@@ -78,4 +78,6 @@ if __name__ == "__main__":
     print(os.path.exists("E:\DCIM\100MSDCF"))
 
 
+### END MAIN
+
     
